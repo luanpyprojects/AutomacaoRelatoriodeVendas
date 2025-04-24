@@ -23,28 +23,30 @@ Instale as bibliotecas:pip install pandas matplotlib reportlab
 - **Entrada**: [produtos.csv](produtos.csv)
 - **Resultado**: [grafico_vendas.png](grafico_vendas.png), [relatorio_vendas.pdf](relatorio_vendas.pdf)
 - **Execução**: Coloque [bot_relatorio.py](bot_relatorio.py) e [produtos.csv](produtos.csv) na mesma pasta. Execute:[bot_relatorio.py](bot_relatorio.py)
-- 
+
 
 
 
 ## Exemplo de Saída
 
-Resumo no console:Total Vendido: R$8835.00
-Total de Unidades Vendidas: 51
-Produto Mais Vendido: Camiseta
-Quantidade do Produto Mais Vendido: 24
-Média por Unidade: R$173.24
-Vendas por produto (R$):
-Produto
-Boné         735.0
-Calça       1390.0
-Camiseta    4000.0
-Jaqueta     1350.0
-Tênis       1360.0
+- Resumo no console:Total Vendido: R$8835.00
+- Total de Unidades Vendidas: 51
+- Produto Mais Vendido: Camiseta
+- Quantidade do Produto Mais Vendido: 24
+- Média por Unidade: R$173.24
+- Vendas por produto (R$):
+- Produto
+- Boné         735.0
+- Calça       1390.0
+- Camiseta    4000.0
+- Jaqueta     1350.0
+- Tênis       1360.0
 
 
-## Gráfico:[grafico_vendas.png](grafico_vendas.png)
-## Relatório: [relatorio_vendas.pdf](relatorio_vendas.pdf)
+## Gráfico:
+- [grafico_vendas.png](grafico_vendas.png)
+## Relatório: 
+- [relatorio_vendas.pdf](relatorio_vendas.pdf)
 
 ## Uso
 - Automatiza relatórios para pequenas empresas, e-commerces ou analistas de dados.
