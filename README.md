@@ -1,6 +1,6 @@
-Automação de Relatórios de Vendas
+# Automação de Relatórios de Vendas
 
-##Descrição:
+## Descrição:
 Este projeto automatiza a geração de relatórios de vendas a partir de um arquivo CSV. 
 
 - Leitura dados de vendas (produto, quantidade, preço unitário).
@@ -10,10 +10,7 @@ Este projeto automatiza a geração de relatórios de vendas a partir de um arqu
 - Ideal para empresas, freelancers e analistas que precisam de relatórios rápidos e visuais.
 Tecnologias
 
-
-##Como Executar:
-
-Pré-requisitos:
+## Pré-requisitos:
 
 Instale Python 3 (disponível em python.org).
 Instale as bibliotecas:pip install pandas matplotlib reportlab
@@ -30,7 +27,7 @@ Instale as bibliotecas:pip install pandas matplotlib reportlab
 
 
 
-Exemplo de Saída
+## Exemplo de Saída
 
 Resumo no console:Total Vendido: R$8835.00
 Total de Unidades Vendidas: 51
