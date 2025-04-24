@@ -19,9 +19,9 @@ Instale as bibliotecas:pip install pandas matplotlib reportlab
 - **Descrição**: Um script Python que lê um CSV de vendas, calcula métricas-chave (total vendido, produto mais vendido, média por unidade), gera gráficos de faturamento e cria um relatório em PDF com tudo organizado. Transforme dados em decisões em minutos!
 - **Tecnologias**: Python, pandas, matplotlib, reportlab.
 - **Impacto**: Reduz horas de trabalho manual, entregando relatórios prontos para apresentações ou envio a clientes. Ideal para e-commerces, varejo ou analistas de dados.
-- **Código**: [bot_relatorio.py](bot_relatorio.py)
+- **Código**: [bot_relatorio1.0.py](bot_relatorio1.0.py)
 - **Entrada**: [produtos.csv](produtos.csv)
-- **Resultado**: [grafico_vendas.png](grafico_vendas.png), [relatorio_vendas.pdf](relatorio_vendas.pdf)
+- **Resultado**: [Gráfico_vendas.png](Gráfico_vendas.png), [relatorio_vendas.pdf](relatorio_vendas.pdf)
 - **Execução**: Coloque [bot_relatorio.py](bot_relatorio.py) e [produtos.csv](produtos.csv) na mesma pasta. Execute:[bot_relatorio.py](bot_relatorio.py)
 
 
