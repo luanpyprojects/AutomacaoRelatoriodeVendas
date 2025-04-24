@@ -42,6 +42,9 @@ Instale as bibliotecas:pip install pandas matplotlib reportlab
 - Jaqueta     1350.0
 - Tênis       1360.0
 
+## Demonstração:
+- [demonstracao_rlt_vendas1.0](demonstracao_rlt_vendas1.0 )
+
 
 ## Gráfico:
 - [grafico_vendas.png](grafico_vendas.png)
