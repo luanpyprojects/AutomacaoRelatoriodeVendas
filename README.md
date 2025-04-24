@@ -43,7 +43,7 @@ Instale as bibliotecas:pip install pandas matplotlib reportlab
 - Tênis       1360.0
 
 ## Demonstração:
-- [demonstracao_rlt_vendas1.0](demonstracao_rlt_vendas1.0 )
+- [demonstracao_rlt_vendas1.0.mp4](demonstracao_rlt_vendas1.0.mp4 )
 
 
 ## Gráfico:
